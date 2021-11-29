@@ -1,5 +1,7 @@
 {
   "cSpell.words": [
     "uuidv"
-  ]
+  ],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true
 }
